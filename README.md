@@ -1,2 +1,2 @@
-# readme-notes
-A simple readme based note taking app
+# React + Express Starter Kit
+Get up in running with React and Express with one repo!
